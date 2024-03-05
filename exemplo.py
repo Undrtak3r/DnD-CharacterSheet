@@ -26,7 +26,14 @@ class sheet(barbaro,halforc):
     pass
 
 
+<<<<<<< HEAD
 
 print('teste')
 
 #teste
+=======
+#CHEGUEIII
+print('teste')
+
+#TESTEEEEEE
+>>>>>>> 62b508b7a4dbaf3085f96b8e07d0ce16ee26aca6
