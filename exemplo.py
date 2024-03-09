@@ -26,5 +26,4 @@ class sheet(barbaro,halforc):
     pass
 
 
-#CHEGUEIII
 print('teste')
